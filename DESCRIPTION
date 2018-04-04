@@ -1,0 +1,15 @@
+Package: pearls
+Type: Package
+Title: Operations on Lists of Data Frames
+Version: 0.0.1
+Date: 2018-04-04
+Authors@R:
+    person(given = "Thomas Lin",
+           family = "Pedersen",
+           role = c("cre", "aut"),
+           email = "thomasp85@gmail.com")
+Maintainer: Thomas Lin Pedersen <thomasp85@gmail.com>
+Description: One paragraph description of what the package does as one or more full sentences.
+License: MIT + file LICENSE
+Imports: Rcpp (>= 0.12.15)
+LinkingTo: Rcpp
